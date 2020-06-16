@@ -7,7 +7,7 @@ This is my interpretation of the Tiny URL app
 2. "Next to the input field place a 'Save' button which will initiate the creation of a tiny URL."
 3. "Input field for placing a tiny URL and a button 'Show Full URL' to retrieve the full URL bound to a tiny URL."
 4. "Single Page App approach"
-#####Why?
+##### Why?
 1. Each Original url is bound to a tiny url, it will generate a new one. This is due to the face that every url have an expiration date and 2 urls can have 2 tiny urls with different expiration date.
 2. Took the liberty to change a bit the UI, there is no Save button, only a button with a conversion icon that makes the same operation.
 3. Another UI change, just divided it to separate tabs.
