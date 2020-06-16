@@ -2,7 +2,7 @@
 This is my interpretation of the Tiny URL app
 
 ## Note
-####Changes that I added to the original requirements: <br>
+#### Changes that I added to the original requirements: <br>
 1. "Same URL will always generate the same tiny URL."
 2. "Next to the input field place a 'Save' button which will initiate the creation of a tiny URL."
 3. "Input field for placing a tiny URL and a button 'Show Full URL' to retrieve the full URL bound to a tiny URL."
