@@ -1,0 +1,14 @@
+.card-container {
+    background-color: white;
+    height:50%;
+    min-width: 600px;
+}
+
+.tab {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
